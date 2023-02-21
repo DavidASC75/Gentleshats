@@ -1,0 +1,2 @@
+# Gentleshats
+Maturití projekt - Eshop.
